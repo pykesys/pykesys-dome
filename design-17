@@ -1,0 +1,156 @@
+The lunar orbital smelting dock design is now complete and documented. It includes every key phase — from SPoC docking and ore offloading to crushing, smelting, slag compaction, and automated logistics.
+
+Would you like a:
+
+📐 Cutaway diagram of the smelting dock,
+
+🔄 Animation storyboard of SPoC-to-metal flow,
+
+Or 🚀 schematic of how this integrates into the Moon–Mars expansion chain?
+
+The refinery in orbit is the forge of continuity — let’s shape its face.
+
+----------------------
+
+## Lunar Orbit Smelting Dock Design (SPoC-Integrated)
+
+### Objective:
+Define the layout and function of a **moon-orbit-based smelting dock** designed to receive incoming SPoCs (Self-Propelled Ore Containers), offload ore in microgravity, and process raw regolith into refined materials including ALON precursors, titanium, iron, glass, and supporting alloys or silicates, for dome and infrastructure construction.
+
+---
+
+### I. Dock Overview
+
+**Location:** Lunar equatorial orbit at ~100 km altitude
+
+**Structure:**
+- Modular toroidal station with radial processing spokes
+- Rotation-capable sections for simulated microgravity during processing stages
+- SPoC docking array ringed on outer hull with centralized feed tunnels
+
+**Capacity:**
+- Handles up to 400 SPoCs per rotation cycle
+- Continuous 24/7 processing capability with full automation
+
+---
+
+### II. SPoC Docking and Ore Intake
+
+**Docking Ring:**
+- SPoCs arrive under autonomous control
+- Each docks into a square interface port leading to a cylindrical intake tube
+
+**Automated Door Interface:**
+- SPoC door retracts laterally (like a panel slide)
+- Ore is extracted using a low-thrust gravity motivator system (electromagnetic and pneumatic pulses)
+- Ore flows into pressurized intake locks and onto a conveyor system
+
+---
+
+### III. Ore Conveyor System
+
+**Design:**
+- Magnetized, segmented conveyor belts in vacuum-tight tubing
+- Micro-paddles push ore segments in rhythmic motion
+
+**Functions:**
+- Transfers ore from intake locks to crusher array
+- Built-in scanners detect ore type, moisture, and contamination
+
+---
+
+### IV. Crushing and Sorting Bay
+
+**Components:**
+- Rotary crusher rings for initial fragmentation
+- Micropulverizers for fine-grain ore separation
+- Electrostatic and magnetic sorters to isolate:
+  - Alumina-rich silicates (for ALON, glass)
+  - Iron-rich oxides (for structural alloy)
+  - Titanium-bearing minerals (e.g., ilmenite)
+  - Calcium, magnesium, sodium (for fluxes, glass, or ceramics)
+
+**Output Channels:**
+- Ore fractions sorted and channeled to specialized smelters or glass kilns
+
+---
+
+### V. Specialized Refining Chambers
+
+#### 1. **ALON Material Stream (Alumina & Aluminum Nitride)**
+- Extracted Al₂O₃ is purified via thermal electrolysis
+- AlN synthesized by reacting refined aluminum with recovered N₂ gas (from NH₃ cracking)
+- Both components sent to ALON sintering module for pellet or sheet formation
+
+#### 2. **Titanium Stream**
+- Ilmenite (FeTiO₃) reduced using hydrogen or carbon monoxide in a high-temperature reactor
+- Yields titanium sponge and iron as byproduct
+- Titanium sponge processed under vacuum into bars or powder for alloying
+
+#### 3. **Iron Stream**
+- Magnetic separation and thermal smelting of iron oxides
+- Cast into ingots, structural bars, or frame beams
+- Used in titanium alloys or habitat supports
+
+#### 4. **Glass Stream**
+- Silica-rich tailings from alumina refining routed to solar glass kilns
+- Mixed with CaO, MgO, and Na₂O extracted from regolith
+- Molded into dome panels, lenses, or internal optics
+
+#### 5. **Alloy and Ceramic Components**
+- Minor elements (e.g., vanadium, manganese, zircon) extracted for custom alloys
+- Used in precision components, electromagnets, and composite materials
+
+---
+
+### VI. Slag & Byproduct Handling
+
+**Slag Compaction Unit:**
+- Residual silicates, non-useful oxides, or glassy waste
+- Molded into tiles, bricks, or shielding panels for reuse
+
+**Secondary Uses:**
+- Radiation shielding
+- Bulk structural fill
+- Ceramic precursors
+
+---
+
+### VII. Output Logistics
+
+**Finished Goods Bays:**
+- Autonomous packaging into crates/modules
+- Staged for launch via tether-based orbital launchers or lunar drop-pods
+- Sorted for dome construction (glass, ALON, Ti alloy) and infrastructure (steel, ceramics, bulk fill)
+
+**Return of Empty SPoCs:**
+- Cleaned and inspected at dock
+- Refilled with compressed air and navigation data
+- Loaded into outbound T-class carrier or deployed independently to new mining mission
+
+---
+
+### VIII. Control & Automation
+
+- AI-operated command center with redundancy
+- Onboard monitoring: Thermal, electromagnetic, and mechanical sensors
+- Fault-tolerant systems with nanobot repair units for micro-damage
+
+---
+
+### IX. Resource Allocation Summary (Per 100 Tons Ore Input)
+| Material | Typical Yield (kg) | Final Use |
+|----------|--------------------|-----------|
+| Al₂O₃    | 12,000             | ALON, glass ceramics |
+| AlN      | 6,000 (from Al + N₂) | ALON formation |
+| Ti       | 4,500              | Alloy beams, supports |
+| Fe       | 20,000             | Frames, tools, girders |
+| Glass (SiO₂ blend) | 25,000 | Panels, lenses, insulation |
+| Flux metals (Ca, Na, Mg) | 8,000 | Glass, chemical processes |
+| Slag      | 24,500             | Bricks, radiation shielding |
+
+---
+
+This refined, multi-material process converts raw ore into a full spectrum of construction-grade materials necessary for solar system colonization, while maximizing recycling and reducing waste. It transforms the orbital dock into the forge of the Solar Bloom civilization.
+
+
